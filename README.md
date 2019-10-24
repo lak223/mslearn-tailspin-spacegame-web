@@ -1,6 +1,8 @@
 
 [![Build Status](https://dev.azure.com/lakshmikanthk2/Tailspin%20Web/_apis/build/status/lak223.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/lakshmikanthk2/Tailspin%20Web/_build/latest?definitionId=5&branchName=master)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-720&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-720)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
